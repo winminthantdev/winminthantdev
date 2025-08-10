@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.pinimg.com/1200x/50/98/a8/5098a880c0aa330af1ce07c35d20f149.jpg"
+    src="https://i.pinimg.com/1200x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg"
     alt="Welcome Banner"
   />
 </p>
