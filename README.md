@@ -3,86 +3,95 @@
   <img src="https://i.pinimg.com/1200x/2f/f6/57/2ff6573ae61ee84e3093ca84497162e8.jpg" alt="Welcome Banner" />
 </p>
 
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4ade80;">Win Min Thant</span></h1>
-<p align="center">
-  <em>A passionate <strong>Full Stack Developer</strong> & <strong>UI/UX Enthusiast</strong></em>
-</p>
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Win+Min+Thant;Full+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=winminthantdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
 
----
+###
 
-## 🚀 About Me
+<h4 align="left">
+👋 Hi, I'm Win Min Thant!<br>
+🎓 A passionate Full Stack Developer & UI/UX Enthusiast.<br><br>
+🚀 I love building scalable web apps with Laravel & React.js, and exploring AWS Cloud and modern backend architectures.<br>
+🎯 Goal: Master full stack development & ship impactful projects.<br>
+🎲 Fun fact: I enjoy combining creativity with tech and designing user-centered apps! 
+</h4>
 
-- 🔭 Currently working on **[Quick Bite](https://quickbite-restaurant.onrender.com/)**  
-- 👨‍💻 Building scalable web apps with **Laravel** & **React.js**  
-- 🌱 Exploring **AWS Cloud** and modern backend architectures  
-- 🎯 Goal: Master full stack development & ship impactful projects  
-- 💡 Passionate about innovative tech and user-centered design  
+###
 
----
+<h2 align="left"> More About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-## 🛠️ Tech Stack  
+###
 
-### 💻 Languages  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<img align="right" height="218" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd5MTZnYXBhOXRza3VwMmhncWk2NnMwZXN1eXRzaDdzajgyeDZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp"  />
 
+###
 
-### 🖼️ Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h4 align="left">
+✨ Creating apps since I wrote my first line of code! <br><br>
+📚 Currently learning more about AWS, Laravel, and modern backend systems.<br><br>
+🎯 Goals: Build meaningful, innovative projects.<br><br>
+🎲 Fun fact: I love organizing digital workflows and UI/UX experiments for fun! 
+</h4>
 
-### ⚙️ Backend & Databases  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+###
 
-### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Tech Stack stays exactly as you have -->
+<h2 align="left">Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"><br></h2>
 
+<div align="left">
+  <!-- Paste your current Tech Stack badges here -->
+</div>
 
----
+###
 
+<h2 align="center">Connect <img src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" width="25"></h2>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winminthantdev&show_icons=true&locale=en" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winminthantdev&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/winminthantdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.behance.net/winminthant1" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="mailto:winminthant.gwin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+###
 
-<p align="center">
-  ⚡ <em>I love coding and designing UI/UX for <strong>hotel booking</strong> & <strong>dating apps</strong>!</em>
-</p>
+<h2 align="left">Stats <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="25"></h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=winminthantdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winminthantdev&locale=en&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=winminthantdev&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h1 align="left">Projects & Work <img src="https://media.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif" width="25"></h1>
+
+<div align="left">
+  <!-- Quick Bite -->
+  <div style="background-color: #2A2A2A; padding: 20px; border-radius: 10px; border: 1px solid #4ADE80; margin-bottom: 20px;">
+    <h3 style="color: #4ADE80;">🌐 Quick Bite</h3>
+    <p style="color: #F8F9FA;">A restaurant web app with:</p>
+    <ul style="color: #F8F9FA;">
+      <li>🍽️ Menu display & ordering system</li>
+      <li>🛠️ Built with Laravel & React.js</li>
+      <li><a href="https://quickbite-restaurant.onrender.com/" target="_blank">🌐 Hosted live for demo</a></li>
+    </ul>
+  </div>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%8C%9F;Let's+connect+and+collaborate!+%F0%9F%A4%9D" alt="Footer Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
