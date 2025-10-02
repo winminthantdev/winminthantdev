@@ -13,7 +13,7 @@
 
 <h4 align="left">
 👋 Hi, I'm Win Min Thant!<br>
-🎓 A passionate Full Stack Developer & UI/UX Enthusiast.<br><br>
+🎓 A passionate Full Stack Developer.<br><br>
 🚀 I love building scalable web apps with Laravel & React.js, and exploring AWS Cloud and modern backend architectures.<br>
 🎯 Goal: Master full stack development & ship impactful projects.<br>
 🎲 Fun fact: I enjoy combining creativity with tech and designing user-centered apps! 
