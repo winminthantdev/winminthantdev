@@ -54,13 +54,13 @@ I am a versatile **Full Stack Developer** with a passion for designing intuitive
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  
-  [![Win Min Thant's GitHub stats](https://github-readme-stats.vercel.app/api?username=winminthantdev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winminthantdev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winminthantdev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=4ADE80" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winminthantdev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=4ADE80" height="150" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=winminthantdev&theme=dracula&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80" height="150" />
+</p>
 
 ---
 
